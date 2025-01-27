@@ -20,7 +20,7 @@
   </a>
 
  <a href=" https://stackoverflow.com/users/29391471/golf-wuttikrai-chainan" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=StackOverflow&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=StackOverflow&label=&color=FFA500&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   </a>
  
 </div>
