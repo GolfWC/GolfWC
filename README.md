@@ -2,7 +2,7 @@
 
 
 <img src="448005559_8154210041257417_650578802372254064_n.jpg" width="850" height="500">
-<img src="https://sl.bing.net/gCrIwRlnP1E" width="850" height="500">
+<img src="https://sl.bing.net/gCrIwRlnP1E">
 
 
 ###
