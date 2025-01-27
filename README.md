@@ -1,7 +1,7 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://www.facebook.com/photo/?fbid=8154210044590750&set=a.466566053355226"  />
+  <img height="150" src="https://github.com/GolfWC/cv/commit/7635c2e9db37b8eec4fe30efa18c0a18a960080e"  />
 </div>
 
 ###
