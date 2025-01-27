@@ -133,3 +133,10 @@
 <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=GolfWC&theme=dark&show_icons=true&count_private=true"><br>
 <img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=GolfWC&theme=dark"></td><td width="50%" align="center">
 <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=GolfWC&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=8"></td></tr></tbody></table>
+
+###
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/GolfWC/GolfWC/output/snake.svg" alt="Snake animation" />
+
+###
