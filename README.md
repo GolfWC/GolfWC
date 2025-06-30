@@ -121,6 +121,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
   <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="typscript logo"  />
+  <img src="https://user-images.githubusercontent.com/90125292/234155932-6b387fce-6fe3-489a-a7d2-6b687523b229.svg" height="40" alt="typscript logo"  />
+  
 </div>
 
 ###
